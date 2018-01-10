@@ -1,0 +1,12 @@
+[I 23:29:54.011 NotebookApp] Serving notebooks from local directory: /home/hwpang/Documents/CS131/hw0_release
+[I 23:29:54.011 NotebookApp] 0 active kernels 
+[I 23:29:54.011 NotebookApp] The Jupyter Notebook is running at: http://localhost:8888/?token=7d0590b5041a594604ae45df4d2e109f9291c1ca50867094
+[I 23:29:54.011 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 23:29:54.013 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=7d0590b5041a594604ae45df4d2e109f9291c1ca50867094
+[I 23:29:54.389 NotebookApp] Accepting one-time-token-authenticated connection from 127.0.0.1
+[2226:2265:0110/232954.427003:ERROR:browser_gpu_channel_host_factory.cc(107)] Failed to launch GPU process.
+Created new window in existing browser session.
